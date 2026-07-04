@@ -1,0 +1,129 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.body {
+    display: flex;
+    justify-content: center;
+
+    align-items: center;
+background: linear-gradient(rgb(150, 197, 216), white);
+    height: 100vh;
+    }
+
+.div1 {
+    border: 2px solid rgb(131, 129, 129);
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    width: 800px;
+    padding: 30px;
+
+    background-color: white;
+    border-radius: 25px;
+
+}
+
+
+
+
+.para1 {
+    font-family: Arial, Helvetica, sans-serif;
+
+    font-weight: 500;
+    color: rgb(95, 87, 87);
+    font-size: 17px;
+}
+
+.skill {
+    letter-spacing: 2px;
+    font-size: 11px;
+    font-weight: 600;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(34, 95, 249);
+}
+
+.wel {
+    font-family: Arial, Helvetica, sans-serif;
+
+    font-size: 30px;
+}
+
+.main {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.com {
+    display: flex;
+    gap: 20px;
+}
+
+.div2 {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    background: linear-gradient(rgb(150, 197, 216), white);
+    width: 360px;
+    padding: 30px;
+    border-radius: 25px;
+    border: 2px solid rgb(150, 197, 216);
+
+
+}
+
+.div3 {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    background-color: white;
+    width: 360px;
+    padding: 30px;
+    border-radius: 25px;
+    border: 2px solid rgb(131, 129, 129);
+
+
+}
+
+.spa {
+    font-weight: 600;
+}
+
+.inp {
+    font-family: 15px;
+    padding: 10px;
+    border-radius: 10px;
+    color: black;
+    border-color: rgb(176, 175, 175);
+}
+
+.demo {
+    font-size: 15px;
+}
+
+.but {
+    background-color: blue;
+    padding: 7px;
+    border-radius: 10px;
+    font-size: 17px;
+    font-weight: 600;
+    border: none;
+    color: white;
+}
+
+.divc {
+    display: flex;
+    gap: 20px;
+}
+
+#i1 {
+    color: green;
+}
+
+#i2 {
+    color: blue;
+}
